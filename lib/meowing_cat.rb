@@ -1,12 +1,12 @@
 ## code your solution here. 
 class Cat
 attr_accessor :name
+end
 Cat = Cat.new
 cat.name = "Cat "
 cat.name
 #=> "Cat "
- end
-end
+
 
 Class Meow 
 attr_accessor: meow
